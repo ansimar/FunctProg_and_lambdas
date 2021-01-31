@@ -1,5 +1,5 @@
 # FUNCTIONAL PROGRAMMING AND LAMBDAS
-
+Obtained from the original [kotlin doc](https://kotlinlang.org/docs/reference/lambdas.html)
 ## Higher-Order Functions and Lambdas
 Kotlin functions are first-class, which means that they can be stored in variables and data structures, passed as arguments to and returned from other higher-order functions.
 A programming language is said to have first-class functions if it treats functions as first-class citizens. This means the language supports passing functions as arguments to other functions, returning them as the values from other functions, and assigning them to variables or storing them in data structures.
